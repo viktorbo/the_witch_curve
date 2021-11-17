@@ -2,6 +2,7 @@
 
 ## Описание
 В данном репозитории содержится демо по построению `кривой Аньези`.
+![1200px-Witch_of_Agnesi_2 svg](https://user-images.githubusercontent.com/15130588/142292497-76a93e29-957b-4f4a-aedf-6d2506eddfdf.png)
 
 _**Ссылка на Википедию**_: https://ru.wikipedia.org/wiki/Верзьера_Аньези
 
